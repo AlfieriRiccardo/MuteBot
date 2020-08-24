@@ -41,7 +41,7 @@ client.on('message', message =>{
         }
     }
     if (message.content === 'Visio' || message.content === 'visio'){
-        message.reply('Gay');
+        message.reply('Impara a produrre musica: https://www.federicovisioli.com/');
     }
     
 })
