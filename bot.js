@@ -49,6 +49,9 @@ client.on('message', message =>{
     if (message.content === 'Alfo' || message.content === 'alfo'){
         message.reply('E\' mia madre');
     }
+    if (message.content === 'Visio' || message.content === 'visio'){
+        message.reply('Impara a fare musica su www.federicovisioli.com');
+    }
     
 })
 
