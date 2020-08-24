@@ -44,7 +44,7 @@ client.on('message', message =>{
         message.reply('E\' mio padre');
     }
     if (message.content === 'Alex' || message.content === 'alex'){
-        message.reply('Ti spezzo in due');
+        message.reply('Ti spezzo in due, oggi ho fatto 64kg');
     }
     if (message.content === 'Alfo' || message.content === 'alfo'){
         message.reply('E\' mia madre');
