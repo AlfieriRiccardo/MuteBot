@@ -47,7 +47,7 @@ client.on('message', message =>{
         message.reply('Ti spezzo in due');
     }
     if (message.content === 'Alfo' || message.content === 'alfo'){
-        message.reply('Te li presto però 10% mensili d\'interesse');
+        message.reply('E\' mia madre');
     }
     
 })
