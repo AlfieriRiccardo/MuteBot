@@ -40,9 +40,6 @@ client.on('message', message =>{
             message.reply('You need to join a voice channel first!');
         }
     }
-    if (message.content.includes('Visio')  || message.content.includes('visio')){
-        message.reply('Impara a produrre musica: https://www.federicovisioli.com/');
-    }
     if (message.content === 'Ion' || message.content === 'ion'){
         message.reply('E\' mio padre');
     }
